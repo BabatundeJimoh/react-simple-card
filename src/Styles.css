@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  border: 5px;
+  padding-top: 90px;
+  background-color: ;
+  color: black;
+  border-bottom: 5px;
+  padding: 1rem;
+  margin-top: 100px;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+  border-radius: 5px;
+}
+
+.card-body {
+  padding: 0 1rem;
+}
+.heading {
+  color: orange;
+}
+.para {
+  font-weight: bold;
+  font-size: 15px;
+}
